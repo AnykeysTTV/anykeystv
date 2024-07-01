@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/anykeystv/static/css/main.e7c41c5c.css",
+    "main.js": "/anykeystv/static/js/main.90b34bf2.js",
+    "static/js/488.c501d75a.chunk.js": "/anykeystv/static/js/488.c501d75a.chunk.js",
+    "static/media/bg.png": "/anykeystv/static/media/bg.be8d2259c09a3d1fe461.png",
+    "static/media/Twitchy.TV.ttf": "/anykeystv/static/media/Twitchy.TV.11a1d3a3126d371cf964.ttf",
+    "index.html": "/anykeystv/index.html",
+    "main.e7c41c5c.css.map": "/anykeystv/static/css/main.e7c41c5c.css.map",
+    "main.90b34bf2.js.map": "/anykeystv/static/js/main.90b34bf2.js.map",
+    "488.c501d75a.chunk.js.map": "/anykeystv/static/js/488.c501d75a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7c41c5c.css",
+    "static/js/main.90b34bf2.js"
+  ]
+}
