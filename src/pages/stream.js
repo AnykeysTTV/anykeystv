@@ -6,6 +6,7 @@ import Iframe from "react-iframe";
 const Discord = () => {
   return ( 
     <Iframe
+      
       url={`https://discord.com/widget?id=${process.env.REACT_APP_DISCORD_GUILD_ID}&theme=dark`}
       height="auto"
       width="auto"

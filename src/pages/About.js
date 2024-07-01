@@ -7,7 +7,7 @@ const AboutMePage = () => {
     <Container className="scroll" data-id="about">
       <Row>
         <Col style={{ offset: 6 }}>
-          <h3>Hey Gamers</h3>
+          <h3>Welcome gamers</h3>
           <br />
           <h4>
             {" "}
